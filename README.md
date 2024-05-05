@@ -11,4 +11,4 @@ Depois de executado, podes iniciar o projeto inserindo o comando seguinte no ter
 npm start
 ```
 
-e pronto, agora so criar as tarefas
+e pronto, agora é só criar as tarefas
